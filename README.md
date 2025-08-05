@@ -2,19 +2,7 @@
 
 A responsive e-commerce website inspired by [Myntra](https://www.myntra.com), built using **HTML**, **CSS**, and **JavaScript**. This clone replicates the UI/UX of the popular fashion e-commerce platform, showcasing features like product listings, navbar, search bar, profile section, and more.
 
-## 🔗 Live Demo
 
-[View Live Demo](https://your-github-username.github.io/myntra-clone)
-
----
-
-## 📸 Screenshots
-
-![Homepage](./screenshots/homepage.png)
-![Product Page](./screenshots/product-page.png)
-![Search](./screenshots/search.png)
-
----
 
 ## ⚙️ Tech Stack
 
